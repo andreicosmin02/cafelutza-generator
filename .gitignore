@@ -1,0 +1,9 @@
+# Notepad++ and other editors sometimes create backups
+*.bak
+
+# Don't upload the resulting images
+rezultaturat/*.png
+rezultaturat/*.jpg
+
+# PyCharm and other IDE files
+.idea/
